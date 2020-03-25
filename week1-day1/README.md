@@ -14,15 +14,15 @@ Find out more [about Glitch](https://glitch.com/about).
 Your Project
 ------------
 
-### ← README.md
+### README.md
 
 That's this Markdown file, where you can tell people what your cool website does and how you built it.
 
-### ← index.html
+### index.html
 
 Where you'll write the content of your HTML page. 
 
-### ← assets
+### assets
 
 Drag in `assets`, like images or music, to add them to your project
 

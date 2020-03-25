@@ -7,10 +7,10 @@ Welcome to Gatsby Web Creators
 
 Learn more about [Gatsby](https://gatsbyjs.org) and [Gatsby Web Creators](https://gatsbyjs.com/gatsby-web-creators/).
 
-Projects
+Project files
 ------------
 
-### ← Week 1 Day 1: Intro to HTML
+### Week 1 Day 1: Intro to HTML
 
 - GitHub project files: [week1-day1](./week1-day1)
 - Glitch project: https://glitch.com/edit/#!/gatsbywc-week1-day1
