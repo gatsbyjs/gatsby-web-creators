@@ -20,6 +20,11 @@ Project files
 - GitHub project files: [week1-day2](./week1-day2)
 - Glitch project: https://glitch.com/edit/#!/gatsbywc-week1-day2
 
+### Week 2: Intro to CSS
+
+- GitHub project files: [week2-intro-to-css](./week2-intro-to-css)
+- Glitch project: https://glitch.com/edit/#!/gatsbywc-week2-css
+
 -------------------
 
 \ ゜o゜)ノ

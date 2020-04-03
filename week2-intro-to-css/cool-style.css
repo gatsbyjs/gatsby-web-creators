@@ -1,0 +1,97 @@
+/* set the overall style */
+html {
+  box-sizing: border-box;
+  color: white;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: Indigo;
+  font-family: Verdana, sans-serif;
+  padding: 1em;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Kalam', cursive;
+}
+
+/* paragraphs */
+p, ul, ol, details {
+  font-size: 0.8rem;
+  margin: 0.5rem 0 1rem;
+}
+
+/* major content sections */
+section {
+  background-image: url(https://cdn.glitch.com/ed4401b4-63ba-4d6d-9a5b-8d29ce101a74%2Fpink_rice.png?v=1585880822219);
+  border-radius: 10px;
+  color: Indigo;
+  margin: 1rem 0;
+  padding: 0.5rem 1rem;
+}
+
+/* image blocks */
+figure {
+  background-color: #333;
+  border: 6px solid teal;
+  border-radius: 6px;
+  color: #fff;
+  margin: 2rem 3rem;
+  padding: 1rem;
+}
+figcaption {
+  font-size: 0.8rem;
+  font-style: italic;
+  font-weight: bold;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* collapsible text blocks */
+details, summary {
+  margin: 1rem 0 1rem 0;
+}
+summary {
+  font-weight: bold;
+}
+
+/* horizontal rules */
+hr {
+  border: none;
+  background-color: #000;
+  height: 0.3rem;
+}
+
+/* clipped text quotes with backgrounds */
+.clippedText {
+  background-color: darkgreen;
+  background-image:                     url("https://cdn.glitch.com/ed4401b4-63ba-4d6d-9a5b-8d29ce101a74%2Fgreen-trail.jpg?v=1585896861843");
+  background-position: center;
+  background-size: contain;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+blockquote {
+  text-align: left;
+  font-family: monospace;
+  font-size: 2rem;
+  font-weight: bold;
+  margin: 0;
+  padding: 0.5rem;
+}
+blockquote cite {
+  display: block;
+  font-family: sans-serif;
+  font-style: italic;
+  /* em to inherit size from blockquote */
+  font-size: 0.5em;
+}

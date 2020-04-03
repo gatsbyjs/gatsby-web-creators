@@ -1,7 +1,7 @@
 ![Gatsby logo](https://cdn.glitch.com/d387b22e-9641-40eb-a67a-383c0ebd6ba8%2FGatsby_Monogram.png?v=1585109177672)
 
-Welcome to Gatsby Web Creators on Glitch
-=================
+# Welcome to Gatsby Web Creators on Glitch
+## Week 1 - Intro to HTML
 
 **Gatsby** is a website generator that uses React, a JavaScript library, and other modern web development tools. The Gatsby Learning team is offering this web development series.
 
