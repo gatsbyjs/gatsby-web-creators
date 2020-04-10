@@ -25,6 +25,11 @@ Project files
 - GitHub project files: [week2-intro-to-css](./week2-intro-to-css)
 - Glitch project: https://glitch.com/edit/#!/gatsbywc-week2-css
 
+### Week 3: Intro to CSS Layout
+
+- GitHub project files: [week3-css-layout](./week3-css-layout)
+- Glitch project: https://glitch.com/edit/#!/gatsbywc-week3-layout
+
 -------------------
 
 \ ゜o゜)ノ
