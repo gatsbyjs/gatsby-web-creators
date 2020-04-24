@@ -30,6 +30,11 @@ Project files
 - GitHub project files: [week3-css-layout](./week3-css-layout)
 - Glitch project: https://glitch.com/edit/#!/gatsbywc-week3-layout
 
+### Week 4: Intro to CSS Animation, Transitions, and Media Queries
+
+- GitHub project files: [week4-css-animation](./week4-css-animation)
+- Glitch project: https://glitch.com/~gatsbywc-week4-animation
+
 -------------------
 
 \ ゜o゜)ノ
