@@ -8,7 +8,6 @@ Welcome to Gatsby Web Creators
 Learn more about [Gatsby](https://gatsbyjs.org) and [Gatsby Web Creators](https://gatsbyjs.com/gatsby-web-creators/).
 
 Find videos from the series on YouTube: https://www.youtube.com/watch?v=gYEUSsemDeI&list=PLCU2qJekvcN0jHWpyEattzdJDjCKdPbp0
-s
 
 Project files
 ------------

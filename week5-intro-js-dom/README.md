@@ -2,8 +2,6 @@
 
 # Intro to JavaScript and DOM - Gatsby Web Creators on Glitch
 
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
-
 **Gatsby** is a website generator that uses React, a JavaScript library, and other modern web development tools. The Gatsby Learning team is offering this web development series.
 
 By participating, you are agreeing to abide by our [Code of Conduct](https://www.gatsbyjs.org/contributing/code-of-conduct/).
