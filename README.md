@@ -1,6 +1,6 @@
 ![Gatsby logo](https://cdn.glitch.com/d387b22e-9641-40eb-a67a-383c0ebd6ba8%2FGatsby_Monogram.png?v=1585109177672)
 
-# Welcome to Gatsby Web Creators on Glitch
+# Intro to JavaScript and DOM - Gatsby Web Creators on Glitch
 
 Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
 
@@ -14,19 +14,39 @@ Learn more about [Gatsby](https://gatsbyjs.org) and [Gatsby Web Creators](https:
 
 Find out more [about Glitch](https://glitch.com/about).
 
+
+## Resources
+
+- Learn JavaScript from Mozilla Developers: [https://developer.mozilla.org/en-US/docs/Learn/Javascript](https://developer.mozilla.org/en-US/docs/Learn/Javascript)
+- What is the DOM? [https://css-tricks.com/dom/](https://css-tricks.com/dom/)
+- JavaScript event handlers: [https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers)
+- JavaScript `Array.from` method: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from)
+- Beginner JavaScript from Wes Bos: [https://beginnerjavascript.com/](https://beginnerjavascript.com/)
+- ARIA / Accessibility Basics [https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics)
+- ARIA pressed state for buttons: [https://www.accessibility-developer-guide.com/examples/sensible-aria-usage/pressed/](https://www.accessibility-developer-guide.com/examples/sensible-aria-usage/pressed/)
+- Web accessibility resources: [https://marcysutton.com/web-accessibility-resources](https://marcysutton.com/web-accessibility-resources)
+
 ## Your Project
 
 ### README.md
 
 That's this Markdown file, where you can tell people what your cool website does and how you built it.
 
+### animal-grid.html
+
+Where you'll wire up a grid of animal emojis with JavaScript.
+
 ### index.html
 
-Where you'll write the content of your HTML page.
+The Gatsby Web Creators homepage so far.
 
 ### cool-style.css
 
 Where you'll make your webpage look stylish with CSS!
+
+### hot-script.js
+
+Where you'll write the JavaScript to control your styled HTML page!
 
 ### assets
 
@@ -34,12 +54,6 @@ Drag in `assets`, like your own images or music, to add them to your project.
 
 Note: YouTube and other media can often be embedded with an `<iframe>` element.
 
-## Resources
-
-- Learn CSS from Mozilla Developers: [https://developer.mozilla.org/en-US/docs/Learn/CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
-- Transitions and Transforms from thoughtbot: [https://thoughtbot.com/blog/transitions-and-transforms](https://thoughtbot.com/blog/transitions-and-transforms)
-- CSS Animation reference on MDN: [https://developer.mozilla.org/en-US/docs/Web/CSS/animation](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
-- 25 Days CSS Animations by Tee Diang: [https://dev.to/acupoftee/25-days-of-css-animations-teaching-myself-css-through-motion-design-4l10](https://dev.to/acupoftee/25-days-of-css-animations-teaching-myself-css-through-motion-design-4l10)
 
 ---
 
