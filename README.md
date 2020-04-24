@@ -12,12 +12,12 @@ Project files
 
 ### Week 1 Day 1: Intro to HTML
 
-- GitHub project files: [week1-day1](./week1-day1)
+- Code files: [week1-day1](./week1-day1)
 - Glitch project: https://glitch.com/edit/#!/gatsbywc-week1-day1
 
 ### Week 1 Day 2: Intro to HTML, continued
 
-- GitHub project files: [week1-day2](./week1-day2)
+- Code files: [week1-day2](./week1-day2)
 - Glitch project: https://glitch.com/edit/#!/gatsbywc-week1-day2
 
 ### Week 2: Intro to CSS
@@ -27,13 +27,18 @@ Project files
 
 ### Week 3: Intro to CSS Layout
 
-- GitHub project files: [week3-css-layout](./week3-css-layout)
+- Code files: [week3-css-layout](./week3-css-layout)
 - Glitch project: https://glitch.com/edit/#!/gatsbywc-week3-layout
 
 ### Week 4: Intro to CSS Animation, Transitions, and Media Queries
 
-- GitHub project files: [week4-css-animation](./week4-css-animation)
-- Glitch project: https://glitch.com/~gatsbywc-week4-animation
+- Code files: [week4-css-animation](./week4-css-animation)
+- Glitch project: https://glitch.com/edit/#!/gatsbywc-week4-animation
+
+### Week 5: Intro to JavaScript and DOM
+
+- Code files: [week5-intro-js-dom](./week5-intro-js-dom)
+- Glitch project: https://glitch.com/edit/#!/gatsbywc-week5-intro-js-dom
 
 -------------------
 

@@ -1,0 +1,231 @@
+/* set the overall style */
+html {
+  box-sizing: border-box;
+  color: white;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: Indigo;
+  font-family: Verdana, sans-serif;
+  padding: 1em;
+}
+
+/* Anchor links */
+a:hover, a:focus {
+  text-decoration: none;
+}
+/* Links that open in new windows */
+a[target='_blank']:after {
+  content: '↗';
+}
+
+/* Headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Kalam", cursive;
+}
+
+/* paragraphs */
+p,
+ul,
+ol,
+details {
+  font-size: 0.8rem;
+  margin: 0.5rem 0 1rem;
+}
+.flex {
+  display: flex;
+}
+
+/* header */
+header h1 {
+  margin-bottom: 0;
+}
+
+/* flex align a second paragraph in the header,
+e.g. the Last Updated Date */
+header .flex p:last-of-type {
+  margin-left: auto;
+}
+
+/* header links */
+header a,
+header a:visited {
+  color: white;
+}
+
+footer {
+  margin-top: 1em;
+}
+
+/* image blocks */
+figure {
+  background-color: #333;
+  border: 6px solid teal;
+  border-radius: 6px;
+  color: #fff;
+  margin: 2rem 3rem;
+  padding: 1rem;
+}
+figcaption {
+  font-size: 0.8rem;
+  font-style: italic;
+  font-weight: bold;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* collapsible text blocks */
+details,
+summary {
+  margin: 1rem 0 1rem 0;
+}
+summary {
+  font-weight: bold;
+}
+
+/* horizontal rules */
+hr {
+  border: none;
+  background-color: #000;
+  height: 0.3rem;
+}
+
+/* clipped text quotes with backgrounds */
+.clippedText {
+  background-color: darkgreen;
+  background-image: url("https://cdn.glitch.com/ed4401b4-63ba-4d6d-9a5b-8d29ce101a74%2Fgreen-trail.jpg?v=1585896861843");
+  background-position: center;
+  background-size: contain;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+blockquote {
+  text-align: left;
+  font-family: monospace;
+  font-size: 2rem;
+  font-weight: bold;
+  margin: 0;
+  padding: 0.5rem;
+}
+blockquote cite {
+  display: block;
+  font-family: sans-serif;
+  font-style: italic;
+  /* em to inherit size from blockquote */
+  font-size: 0.5em;
+}
+
+/* main element (Animal Friends) */
+
+main {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+  grid-gap: 1rem;
+}
+
+/* content sections */
+section {
+  background-image: url(https://cdn.glitch.com/ed4401b4-63ba-4d6d-9a5b-8d29ce101a74%2Fpink_rice.png?v=1585880822219);
+  border-radius: 10px;
+  color: Indigo;
+  /*   margin: 1rem 0; */
+  padding: 0.5rem 1rem;
+}
+
+/* animal friends grid */
+.grid-controls button { 
+  font-size: 1.15rem;
+  transition: transform 1s;
+}
+.grid-controls button:focus {
+  background-color: cyan;
+}
+
+.grid {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 0.5rem;
+}
+
+.grid-item {
+  font-size: 3rem;
+  text-align: center;
+}
+
+.grid-item h3 {
+  margin: 0;
+}
+
+.carnivores .grid-item {
+  background-color: salmon;
+}
+
+.herbivores .grid-item {
+  background-color: yellowgreen;
+}
+
+.grid-item span {
+  display: block;
+  transition: 0.5s;
+}
+.scale .grid-item span {
+  transform: scale(2);
+}
+
+.translate .grid-item span {
+  transform: translate(20px, 20px);
+}
+
+.rotate .grid-item span {
+  transform: rotate(180deg);
+}
+
+.rumble .grid-item span {
+  animation: 0.5s infinite rumble;
+}
+
+#btn-reset:hover, #btn-reset:focus {
+  background-color: red;
+  border-color: transparent;
+  color: white;
+  transition: 0.2s;
+}
+@keyframes rumble {
+  0% {
+    transform: translate(0);
+  }
+  20% {
+    transform: translate(3px, -3px);
+  }
+  40% {
+    transform: translate(3px, 3px);
+  }
+  60% {
+    transform: translate(-3px, 3px);
+  }
+  80% {
+    transform: translate(-3px, -3px);
+  }
+  100% {
+    transform: translate(0);
+  }
+}
