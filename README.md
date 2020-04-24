@@ -3,7 +3,9 @@
 Welcome to Gatsby Web Creators
 =================
 
-**Gatsby** is a website generator that uses React, a JavaScript library, and other modern web development tools. The Gatsby Learning team is offering this web development series.
+**Gatsby** is a website generator that uses React, a JavaScript library, and other modern web development tools. The Gatsby team is offering this web development series through April and May, 2020.
+
+Find each session from Series 1 on YouTube: https://www.youtube.com/watch?v=gYEUSsemDeI&list=PLCU2qJekvcN0jHWpyEattzdJDjCKdPbp0
 
 Learn more about [Gatsby](https://gatsbyjs.org) and [Gatsby Web Creators](https://gatsbyjs.com/gatsby-web-creators/).
 
