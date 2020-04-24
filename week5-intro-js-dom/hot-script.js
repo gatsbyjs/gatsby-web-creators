@@ -62,7 +62,8 @@ btnRumble.addEventListener('click', function(event) {
 
 // reusable Reset All function
 function resetGrid() {
-  // only the first button fully hooked up for accessibility
+  // note: only the first animation button was set/reset.
+  // all pressed buttons will need to be wired up for accessibility.
   btnScale.removeAttribute('aria-pressed');
   
   // clear all grid classes
