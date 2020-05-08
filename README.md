@@ -42,6 +42,11 @@ Project files
 - Code files: [week5-intro-js-dom](./week5-intro-js-dom)
 - Glitch project: https://glitch.com/edit/#!/gatsbywc-week5-intro-js-dom
 
+### Week 6: (Re)Intro to JavaScript, Make Art
+
+- Code files: [week6-javascript-art](./week6-javascript-art)
+- Glitch project: https://glitch.com/edit/#!/gatsbywc-week6-javascript-art
+
 -------------------
 
 \ ゜o゜)ノ
