@@ -1,6 +1,7 @@
-![Gatsby logo](https://cdn.glitch.com/d387b22e-9641-40eb-a67a-383c0ebd6ba8%2FGatsby_Monogram.png?v=1585109177672)
+![Gatsby logo](https://cdn.glitch.com/b5ed501d-ec2f-4f2e-875d-1cf300be02d2%2FGatsby_Monogram.png?v=1588897548661)
 
-# Intro to JavaScript and DOM - Gatsby Web Creators on Glitch
+# (Re)-intro to JavaScript, make art 
+## Gatsby Web Creators on Glitch
 
 Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
 
@@ -18,13 +19,14 @@ Find out more [about Glitch](https://glitch.com/about).
 ## Resources
 
 - Learn JavaScript from Mozilla Developers: [https://developer.mozilla.org/en-US/docs/Learn/Javascript](https://developer.mozilla.org/en-US/docs/Learn/Javascript)
-- What is the DOM? [https://css-tricks.com/dom/](https://css-tricks.com/dom/)
-- JavaScript event handlers: [https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers)
-- JavaScript `Array.from` method: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from)
-- Beginner JavaScript from Wes Bos: [https://beginnerjavascript.com/](https://beginnerjavascript.com/)
-- ARIA / Accessibility Basics [https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics)
-- ARIA pressed state for buttons: [https://www.accessibility-developer-guide.com/examples/sensible-aria-usage/pressed/](https://www.accessibility-developer-guide.com/examples/sensible-aria-usage/pressed/)
-- Web accessibility resources: [https://marcysutton.com/web-accessibility-resources](https://marcysutton.com/web-accessibility-resources)
+- Canvas tutorial: [https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
+- p5.js: [https://p5js.org/](https://p5js.org/)
+- p5 Spirograph example: [https://p5js.org/examples/simulate-spirograph.html](https://p5js.org/examples/simulate-spirograph.html)
+- Blocks spirograph example: [https://bl.ocks.org/johnburnmurdoch/309de23b678aba316f3b3d802a67967f](https://bl.ocks.org/johnburnmurdoch/309de23b678aba316f3b3d802a67967f)
+- Spirograph math: [https://www.youtube.com/watch?v=1OavFIgFgI4](https://www.youtube.com/watch?v=1OavFIgFgI4)
+- Inspirograph: [https://nathanfriend.io/inspirograph/](https://nathanfriend.io/inspirograph/)
+- Coding Train: Mathematical Rose Patterns [https://www.youtube.com/watch?v=f5QBExMNB1I](https://www.youtube.com/watch?v=f5QBExMNB1I)
+- Rose Mathematics: [https://en.wikipedia.org/wiki/Rose_(mathematics)](https://en.wikipedia.org/wiki/Rose_(mathematics))
 
 ## Your Project
 
@@ -32,27 +34,21 @@ Find out more [about Glitch](https://glitch.com/about).
 
 That's this Markdown file, where you can tell people what your cool website does and how you built it.
 
-### animal-grid.html
-
-Where you'll wire up a grid of animal emojis with JavaScript.
-
 ### index.html
 
-The Gatsby Web Creators homepage so far.
+Where you'll include scripts and styles, as well as HTML markup for your creations.
 
-### cool-style.css
+### style.css
 
 Where you'll make your webpage look stylish with CSS!
 
-### hot-script.js
+### script.js
 
 Where you'll write the JavaScript to control your styled HTML page!
 
 ### assets
 
 Drag in `assets`, like your own images or music, to add them to your project. 
-
-Note: YouTube and other media can often be embedded with an `<iframe>` element.
 
 
 ---
