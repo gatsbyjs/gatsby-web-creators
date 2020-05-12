@@ -1,0 +1,38 @@
+/* CSS files add styling rules to your content */
+
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: helvetica, arial, sans-serif;
+    margin: 2em;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+h1 {
+    font-style: italic;
+    color: #373fff;
+    text-align: center;
+}
+.two-up {
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    grid-gap: 1em;
+}
+.two-up section {
+    background-color: pink;
+    border: 5px solid goldenrod;
+    border-radius: 10px;
+    min-height: 300px;
+}
+figure {
+    min-height: 200px;
+    max-width: 100%;
+}
+figure img {
+    border-radius: 10px;
+    width: 100%;
+}
