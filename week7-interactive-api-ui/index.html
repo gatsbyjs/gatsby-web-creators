@@ -16,16 +16,28 @@
       <noscript>This page requires JavaScript.</noscript>
     <header>
         <h1>Spot or Not?</h1>
+        <p>Which image has spots? Pick one.</p>
     </header>
     <main>
-        <div class="two-up">
-            <section id="dogs">
-
-            </section>
-            <section id="space">
-
-            </section>
-        </div>
+        <form>
+            <div class="two-up">
+                <fieldset id="dogs">
+                    <legend>Spotted dog?</legend>
+                    <label>
+                        <input type="radio" id="input-dog" name="spotornot" />
+                        <div id="dog-image" class="crop-height"></div>
+                    </label>
+                </fieldset>
+                <fieldset id="space">
+                    <legend>Spot in space?</legend>
+                    <label>
+                        <input type="radio" id="input-space" name="spotornot" />
+                        <div id="space-image" class="crop-height"></div>
+                    </label>
+                </fieldset>
+            </div>
+            <button type="submit">Choose</button>
+        </form>
     </main>
 </body>
 </html>

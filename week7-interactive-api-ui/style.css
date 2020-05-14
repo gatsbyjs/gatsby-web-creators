@@ -7,32 +7,72 @@ body {
     font-family: helvetica, arial, sans-serif;
     margin: 2em;
 }
-
 img {
     max-width: 100%;
     height: auto;
 }
-h1 {
+header {
     font-style: italic;
-    color: #373fff;
     text-align: center;
+}
+h1 {
+    color: #373fff;
+    margin-bottom: 0;
 }
 .two-up {
     display: grid;
     grid-template-columns: 2fr 2fr;
     grid-gap: 1em;
 }
-.two-up section {
+.crop-height {
+    max-height: 500px;
+    overflow: hidden; 
+}
+.two-up fieldset {
     background-color: pink;
     border: 5px solid goldenrod;
-    border-radius: 10px;
+    border-radius: 30px;
     min-height: 300px;
+    padding: 0;
+}
+fieldset.checked {
+    background-color: goldenrod;
+}
+fieldset legend {
+    background-color: greenyellow;
+    font-weight: bold;
+    padding: 0.25em 0.5em;
+}
+fieldset label {
+    cursor: pointer;
+    display: block;
+    padding-top: 1em;
 }
 figure {
-    min-height: 200px;
+    display: block;
+    min-height: 500px;
     max-width: 100%;
+    text-align: center;
 }
 figure img {
-    border-radius: 10px;
-    width: 100%;
+    border-radius: 30px;
+    display: inline-block;
+    height: auto;
+    max-width: 100%;
+}
+figcaption {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+form {
+    text-align: center;
+}
+form button {
+    background-color: darkred;
+    color: white;
+    display: inline-block;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 1em 0;
 }

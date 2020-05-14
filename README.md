@@ -47,6 +47,11 @@ Project files
 - Code files: [week6-javascript-art](./week6-javascript-art)
 - Glitch project: https://glitch.com/edit/#!/gatsbywc-week6-javascript-art
 
+### Week 7: Make an interactive UI with JavaScript and 3rd-party APIs
+
+- Code files: [week7-interactive-api-ui](./week7-interactive-api-ui)
+- Glitch project: https://glitch.com/edit/#!/gatsbywc-week7-interactive-api-ui
+
 -------------------
 
 \ ゜o゜)ノ
