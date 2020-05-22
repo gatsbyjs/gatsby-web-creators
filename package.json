@@ -1,0 +1,23 @@
+{
+  "name": "hello-node",
+  "version": "0.0.1",
+  "description": "A simple Node app",
+  "main": "pokemon.js",
+  "scripts": {
+    "start": "node pokemon.js"
+  },
+  "dependencies": {
+    "cards-ascii": "^1.2.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch"
+  ]
+}

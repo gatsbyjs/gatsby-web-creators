@@ -1,0 +1,18 @@
+dependencies:
+  cards-ascii: 1.2.0
+packages:
+  /cards-ascii/1.2.0:
+    dependencies:
+      cards-unicode: 1.2.1
+    dev: false
+    resolution:
+      integrity: sha512-LpYHSoqbwqa6tQP6eNyEkFsus9E8MaezTW6094+jga8CZN99yGF/b3RcyGFcaISmUnnn+/CLraQGz0ca4IXjRg==
+  /cards-unicode/1.2.1:
+    dev: false
+    resolution:
+      integrity: sha512-s/vCBpQcAVlobL+nCZ4+R2UcSyq5+ph4e6ZgflWPyIXUtvV85myLEKXmEH8G48wTPQCmb+QUBJuu4AAdXEOmjQ==
+registry: 'https://registry.npmjs.org/'
+shrinkwrapMinorVersion: 9
+shrinkwrapVersion: 3
+specifiers:
+  cards-ascii: ^1.2.0

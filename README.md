@@ -1,6 +1,6 @@
-![Gatsby logo](https://cdn.glitch.com/b5ed501d-ec2f-4f2e-875d-1cf300be02d2%2FGatsby_Monogram.png?v=1588897548661)
+![Gatsby logo](https://cdn.glitch.com/d387b22e-9641-40eb-a67a-383c0ebd6ba8%2FGatsby_Monogram.png?v=1585109177672)
 
-# (Re)-intro to JavaScript, make art 
+# Intro to Node.js and Backend Scripting
 ## Gatsby Web Creators on Glitch
 
 Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
@@ -18,15 +18,8 @@ Find out more [about Glitch](https://glitch.com/about).
 
 ## Resources
 
-- Learn JavaScript from Mozilla Developers: [https://developer.mozilla.org/en-US/docs/Learn/Javascript](https://developer.mozilla.org/en-US/docs/Learn/Javascript)
-- Canvas tutorial: [https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
-- p5.js: [https://p5js.org/](https://p5js.org/)
-- p5 Spirograph example: [https://p5js.org/examples/simulate-spirograph.html](https://p5js.org/examples/simulate-spirograph.html)
-- Blocks spirograph example: [https://bl.ocks.org/johnburnmurdoch/309de23b678aba316f3b3d802a67967f](https://bl.ocks.org/johnburnmurdoch/309de23b678aba316f3b3d802a67967f)
-- Spirograph math: [https://www.youtube.com/watch?v=1OavFIgFgI4](https://www.youtube.com/watch?v=1OavFIgFgI4)
-- Inspirograph: [https://nathanfriend.io/inspirograph/](https://nathanfriend.io/inspirograph/)
-- Coding Train: Mathematical Rose Patterns [https://www.youtube.com/watch?v=f5QBExMNB1I](https://www.youtube.com/watch?v=f5QBExMNB1I)
-- Rose Mathematics: [https://en.wikipedia.org/wiki/Rose_(mathematics)](https://en.wikipedia.org/wiki/Rose_(mathematics))
+- Node.js: [https://nodejs.org](https://nodejs.org)
+- Semantic versioning: [https://semver.org](https://semver.org)
 
 ## Your Project
 
@@ -34,21 +27,17 @@ Find out more [about Glitch](https://glitch.com/about).
 
 That's this Markdown file, where you can tell people what your cool website does and how you built it.
 
-### index.html
+### package.json
 
-Where you'll include scripts and styles, as well as HTML markup for your creations.
+Configuration file that lists information about your project. Running `npm install [package-name]` will add to the `dependencies` object in this file.
 
-### style.css
+### card.js
 
-Where you'll make your webpage look stylish with CSS!
+A script that displays playing cards to your console!
 
-### script.js
+### pokemon.js
 
-Where you'll write the JavaScript to control your styled HTML page!
-
-### assets
-
-Drag in `assets`, like your own images or music, to add them to your project. 
+A script that grabs information about a pokemon from the [PokéAPI](https://pokeapi.co/) from user input.
 
 
 ---
