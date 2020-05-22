@@ -52,6 +52,11 @@ Project files
 - Code files: [week7-interactive-api-ui](./week7-interactive-api-ui)
 - Glitch project: https://glitch.com/edit/#!/gatsbywc-week7-interactive-api-ui
 
+### Week 8: Intro to Node.js and Backend Scripting
+
+- Code files: [week8-nodejs](./week8/nodejs)
+- Glitch project: https://glitch.com/edit/#!/gatsbywc-week8-nodejs
+
 -------------------
 
 \ ゜o゜)ノ
