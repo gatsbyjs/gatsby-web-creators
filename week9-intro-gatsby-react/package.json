@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "A Gatsby Site",
   "scripts": {
+    "build": "gatsby build",
     "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "dependencies": {
