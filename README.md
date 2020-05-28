@@ -57,6 +57,10 @@ Project files
 - Code files: [week8-nodejs](./week8-nodejs)
 - Glitch project: https://glitch.com/edit/#!/gatsbywc-week8-nodejs
 
+### Week 9: Intro to Gatsby and React
+
+- Code files: [week9-intro-gatsby-react](./week9-intro-gatsby-react)
+
 -------------------
 
 \ ゜o゜)ノ

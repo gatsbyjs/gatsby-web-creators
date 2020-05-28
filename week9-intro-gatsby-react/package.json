@@ -1,0 +1,28 @@
+{
+  "name": "hello-gatsby-react",
+  "version": "0.0.1",
+  "description": "A Gatsby Site",
+  "scripts": {
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+  },
+  "dependencies": {
+    "gatsby": "^2.22.12",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "typeface-kalam": "0.0.72"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": ""
+  },
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "Gatsby"
+  ],
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
